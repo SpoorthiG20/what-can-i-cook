@@ -84,7 +84,7 @@ what-can-i-cook/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SpoorthiG20/what-can-i-cook
 cd what-can-i-cook
 ```
 
